@@ -1,0 +1,68 @@
+[
+  {
+    "manifestVersion": 2,
+    "deprecated": false,
+    "name": "Nyaa.si",
+    "id": "nyaa",
+    "version": "1.0.0",
+    "type": "torrent",
+    "accuracy": "medium",
+    "updatePeers": false,
+    "media": "both",
+    "languages": ["US", "JP"],
+    "url": "aHR0cHM6Ly9ueWFhLnNp",
+    "icon": "https://nyaa.si/favicon.ico",
+    "update": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Test/nyaa.json",
+    "code": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Test/nyaa.js",
+    "options": {
+      "category": {
+        "type": "string",
+        "description": "Category: '0_0' (all), '1_2' (anime-eng), '1_1' (anime-raw), '3_6' (manga)",
+        "default": "0_0"
+      },
+      "filter": {
+        "type": "string",
+        "description": "Filter: '0' (none), '1' (no remakes), '2' (trusted only)",
+        "default": "0"
+      },
+      "limit": {
+        "type": "number",
+        "description": "Max results (1-100)",
+        "default": 50
+      }
+    }
+  },
+  {
+    "manifestVersion": 2,
+    "deprecated": false,
+    "name": "Sukebei Nyaa",
+    "id": "sukebei",
+    "version": "1.0.0",
+    "type": "torrent",
+    "accuracy": "medium",
+    "updatePeers": false,
+    "media": "both",
+    "languages": ["US", "JP"],
+    "url": "aHR0cHM6Ly9zdWtlYmVpLm55YWEuc2k=",
+    "icon": "https://sukebei.nyaa.si/favicon.ico",
+    "update": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Test/nyaa.json",
+    "code": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Test/nyaa.js",
+    "options": {
+      "category": {
+        "type": "string",
+        "description": "Category: '0_0' (all), '1_2' (anime-eng), '1_1' (anime-raw), '3_6' (manga)",
+        "default": "0_0"
+      },
+      "filter": {
+        "type": "string",
+        "description": "Filter: '0' (none), '1' (no remakes), '2' (trusted only)",
+        "default": "0"
+      },
+      "limit": {
+        "type": "number",
+        "description": "Max results (1-100)",
+        "default": 50
+      }
+    }
+  }
+]
