@@ -12,8 +12,8 @@
     "languages": ["US", "JP"],
     "url": "aHR0cHM6Ly9ueWFhLnNp",
     "icon": "https://nyaa.si/favicon.ico",
-    "update": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Test/nyaa.json",
-    "code": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Test/nyaa.js",
+    "update": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Android/nyaa.json",
+    "code": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Android/nyaa.js",
     "options": {
       "category": {
         "type": "string",
@@ -45,8 +45,8 @@
     "languages": ["US", "JP"],
     "url": "aHR0cHM6Ly9zdWtlYmVpLm55YWEuc2k=",
     "icon": "https://sukebei.nyaa.si/favicon.ico",
-    "update": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Test/nyaa.json",
-    "code": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Test/nyaa.js",
+    "update": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Android/nyaa.json",
+    "code": "https://yatsimuratsuyuno.github.io/Anime-Torrent-Android/nyaa.js",
     "options": {
       "category": {
         "type": "string",
